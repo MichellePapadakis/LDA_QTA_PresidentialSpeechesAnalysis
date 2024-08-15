@@ -6,8 +6,8 @@ This repository contains documents and files for a quantitative text analysis  o
 
 ## Files in the Repository
 
-- **my459_final.html**: The HTML file with the final analysis and visualizations.
-- **my459_final.pdf**: The PDF version of the final analysis report.
+- **mfinal.html**: The HTML file with the final analysis and visualizations.
+- **final.pdf**: The PDF version of the final analysis report.
 - **speeches_consolidate.RData**: The consolidated data scrapped from multiple origins of the speeches used for the analysis.
 
 ## Analysis Details
